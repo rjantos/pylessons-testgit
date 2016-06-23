@@ -1,0 +1,2 @@
+a = 'prova'
+print(a)
